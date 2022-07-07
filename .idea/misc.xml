@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/2022/BottomNavigationAndroid-master/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.1" />
+        <entry key="..\:/workspace/2022/BottomNavigationAndroid-master/app/src/main/res/drawable-anydpi/ic_inbox.xml" value="0.1" />
+        <entry key="..\:/workspace/2022/BottomNavigationAndroid-master/app/src/main/res/drawable-anydpi/ic_more.xml" value="0.1" />
+        <entry key="..\:/workspace/2022/BottomNavigationAndroid-master/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/2022/BottomNavigationAndroid-master/app/src/main/res/layout/fragment_add.xml" value="0.20652173913043478" />
+        <entry key="..\:/workspace/2022/BottomNavigationAndroid-master/app/src/main/res/layout/fragment_home.xml" value="0.20652173913043478" />
+        <entry key="..\:/workspace/2022/BottomNavigationAndroid-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/github/BottomNavigationAndroid/app/src/main/res/layout/fragment_add.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/github/BottomNavigationAndroid/app/src/main/res/layout/fragment_inbox.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/github/BottomNavigationAndroid/app/src/main/res/layout/fragment_more.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
